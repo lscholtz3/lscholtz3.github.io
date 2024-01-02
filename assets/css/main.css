@@ -3776,3 +3776,9 @@ input, select, textarea {
 			}
 
 	}
+
+.pubs-note {
+  float: right;
+  font-style: italic;
+  font-size: 0.85em;
+}
